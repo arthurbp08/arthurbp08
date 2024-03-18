@@ -21,11 +21,22 @@
     <!--C++-->
 </div>
 
-##Estudando
+## Estudando
 <div display="inline-block">
     <!--py-->
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <!--html-->
     <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <!--mysql-->
+    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <!--php-->
+    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
 
+# Minhas estatísticas do github
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurbp08&show_icons=true&theme=midnight-purple)
+
+<!-- <br> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbp08&theme=midnight-purple)](https://github.com/arthurbp08/github-readme-stats)
