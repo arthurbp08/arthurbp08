@@ -24,12 +24,13 @@
     <!--c-->
     <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <!--C++-->
+      <!--py-->
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 ## Estudando
 <div display="inline-block">
-    <!--py-->
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  
     <!--html-->
     <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <!--mysql-->
