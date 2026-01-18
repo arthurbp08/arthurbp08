@@ -43,9 +43,6 @@
     <img align="center" alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 </div>
 
-# Minhas estatísticas do github
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurbp08&show_icons=true&theme=midnight-purple)
 
 <!-- <br> -->
 
